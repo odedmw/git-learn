@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file 2, this is version.
 check-branch
+=======
+file 2, this is version.
+>>>>>>> master
